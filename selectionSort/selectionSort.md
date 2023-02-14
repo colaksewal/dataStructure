@@ -10,15 +10,18 @@
 
 ### [2,6,16,18,22,27]
 
-| ----------- | ----------- |
+***
 
 ## Big O(n^2) 
 
-| ----------- | ----------- |
+***
 
-## Since it is in the middle of 18 series, it is covered by Average Case.
+### Since it is in the middle of 18 series, it is covered by Average Case.
 
-### [7,3,5,8,2,9,4,15,6] 
+***
+
+
+## [7,3,5,8,2,9,4,15,6] 
 
 ### [2,3,5,8,7,9,4,15,6] 
 
